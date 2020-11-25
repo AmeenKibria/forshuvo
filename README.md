@@ -13,6 +13,9 @@ As this is a maven based spring boot application, we can simply use maven clean 
 Now launch the application class com.rcmcode.countryservice.CountryServiceApplication.
 
 
-Application can be accessed using below URL's
+####Application can be accessed using below URL's
+
+
 http://localhost:8081/country-app/countries
+
 http://localhost:8081/country-app/countries/name?
