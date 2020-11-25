@@ -17,5 +17,4 @@ Now launch the application class com.rcmcode.countryservice.CountryServiceApplic
 
 
 http://localhost:8081/country-app/countries
-
-http://localhost:8081/country-app/countries/name?
+http://localhost:8081/country-app/countries/<name>
