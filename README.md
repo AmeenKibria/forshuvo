@@ -2,6 +2,7 @@
 
 Spring Boot 2.3.5 Based Backend Service
 Application: Country Service
+
 Port: 8081
 
 Installation
@@ -14,4 +15,4 @@ Now launch the application class com.rcmcode.countryservice.CountryServiceApplic
 
 Application can be accessed using below URL's
 http://localhost:8081/country-app/countries
-http://localhost:8081/country-app/countries/<name>
+http://localhost:8081/country-app/countries/name?
