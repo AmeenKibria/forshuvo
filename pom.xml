@@ -11,7 +11,7 @@
 	<groupId>com.ameen</groupId>
 	<artifactId>conuntryServiceBack</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>conuntryServiceBack</name>
+	<name>countryServiceBack</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
