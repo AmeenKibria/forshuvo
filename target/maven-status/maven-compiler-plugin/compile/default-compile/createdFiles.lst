@@ -1,0 +1,12 @@
+com\ameen\countryServiceBack\CountryServiceBackApplication.class
+com\ameen\countryServiceBack\controller\CountryController.class
+com\ameen\countryServiceBack\model\external\CountryInfo.class
+com\ameen\countryServiceBack\service\CountryService.class
+com\ameen\countryServiceBack\service\CountryServiceProxy.class
+com\ameen\countryServiceBack\model\external\RegionalBloc.class
+com\ameen\countryServiceBack\model\external\Translations.class
+com\ameen\countryServiceBack\model\external\internal\Country.class
+com\ameen\countryServiceBack\model\external\internal\Countries.class
+com\ameen\countryServiceBack\component\CountryMapper.class
+com\ameen\countryServiceBack\model\external\Currency.class
+com\ameen\countryServiceBack\model\external\Language.class
